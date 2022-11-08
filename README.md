@@ -11,4 +11,5 @@
 ![Simulation ongoing 2](https://user-images.githubusercontent.com/95247831/200519398-3f1b0e19-463b-4105-9f2d-d03d978d8f58.png)
 ![Simulation ongoing 3](https://user-images.githubusercontent.com/95247831/200519407-13ed597d-071d-4d0e-825c-1e943ece9ecd.png)
 ## End of the simulation
+## Results
 ![End of the simulation](https://user-images.githubusercontent.com/95247831/200519417-7fac3728-e6b0-44f2-929d-9b8ac974a349.png)
