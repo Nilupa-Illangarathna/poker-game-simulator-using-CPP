@@ -63,7 +63,7 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
     <td>main input</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519380-3565ae6c-33d1-4571-852d-a1043778a057.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519380-3565ae6c-33d1-4571-852d-a1043778a057.png" width=600></td>
   </tr>
  </table>
 
@@ -73,8 +73,8 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
     <td>Simulation ongoing</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519393-b97e927b-2de6-4d94-a9b4-10297af11550.png" width=400></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519396-8833d263-f8cf-4993-a6bd-3b7b7e3a09cc.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519393-b97e927b-2de6-4d94-a9b4-10297af11550.png" width=600></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519396-8833d263-f8cf-4993-a6bd-3b7b7e3a09cc.png" width=600></td>
   </tr>
  </table>
 
@@ -84,8 +84,8 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
     <td>Simulation ongoing</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519398-3f1b0e19-463b-4105-9f2d-d03d978d8f58.png" width=400></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519407-13ed597d-071d-4d0e-825c-1e943ece9ecd.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519398-3f1b0e19-463b-4105-9f2d-d03d978d8f58.png" width=600></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519407-13ed597d-071d-4d0e-825c-1e943ece9ecd.png" width=600></td>
   </tr>
  </table>
 
@@ -95,7 +95,7 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
     <td>Results</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/200519417-7fac3728-e6b0-44f2-929d-9b8ac974a349.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/95247831/200519417-7fac3728-e6b0-44f2-929d-9b8ac974a349.png" width=600></td>
   </tr>
  </table>
 
