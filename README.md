@@ -4,6 +4,9 @@
 
 This C++ Poker Simulator is a console-based application designed to simulate a poker game. The application handles various aspects of poker gameplay, including card shuffling, dealing cards to players and a dealer, calculating winning probabilities, determining the winner of each round, and updating scores. The project is implemented in C++ and can be compiled and executed from the command line.
 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+
 ## Task
 <table>
   <tr>
