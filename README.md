@@ -58,26 +58,6 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
      - On Unix-based systems: `./run_poker_simulator.bat`
      - On Windows: `run_poker_simulator.bat`
 
-## File Structure
-
-- `poker_simulator.cpp`: Contains the C++ code for the poker simulator.
-- `run_poker_simulator.bat`: Batch file for easy compilation and execution.
-- `.gitignore`: Excludes compiled files and other unnecessary files from version control.
-
-## Author
-
-[Your Name]
-- [GitHub Profile](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
-
 <table>
   <tr>
     <td>main input</td>
@@ -119,15 +99,25 @@ This project is licensed under the [MIT License](LICENSE).
   </tr>
  </table>
 
+## File Structure
 
- 
-# Poker-Game-Simulator-using-CPP
+- `poker_simulator.cpp`: Contains the C++ code for the poker simulator.
+- `run_poker_simulator.bat`: Batch file for easy compilation and execution.
+- `.gitignore`: Excludes compiled files and other unnecessary files from version control.
 
-### Simulation ongoing
-![Simulation ongoing 0](https://user-images.githubusercontent.com/95247831/200519393-b97e927b-2de6-4d94-a9b4-10297af11550.png)
-![Simulation ongoing 1](https://user-images.githubusercontent.com/95247831/200519396-8833d263-f8cf-4993-a6bd-3b7b7e3a09cc.png)
-![Simulation ongoing 2](https://user-images.githubusercontent.com/95247831/200519398-3f1b0e19-463b-4105-9f2d-d03d978d8f58.png)
-![Simulation ongoing 3](https://user-images.githubusercontent.com/95247831/200519407-13ed597d-071d-4d0e-825c-1e943ece9ecd.png)
-## End of the simulation
-## Results
-![End of the simulation](https://user-images.githubusercontent.com/95247831/200519417-7fac3728-e6b0-44f2-929d-9b8ac974a349.png)
+## Author
+
+[Your Name]
+- [GitHub Profile](https://github.com/yourusername)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+
+
