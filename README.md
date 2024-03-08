@@ -108,11 +108,9 @@ This C++ Poker Simulator is a console-based application designed to simulate a p
 ## Author
 
 [Your Name]
-- [GitHub Profile](https://github.com/yourusername)
+- [GitHub Profile](https://github.com/Nilupa-Illangarathna)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 
 
